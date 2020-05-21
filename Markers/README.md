@@ -1,1 +1,1 @@
-This file shows some examples of markers.
+This file shows some marker images.
