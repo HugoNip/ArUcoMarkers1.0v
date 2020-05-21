@@ -1,10 +1,11 @@
 # ArUco Markers Detection
 
-# OpenCV Version
-OpenCV 4.3.0
+## OpenCV Version
+OpenCV 4.3.0  
 OpenCV Contrib 4.3.0
 
-# Steps to build
+
+## Steps to build
 To compile on Linux, mac or Windows using Mingw
 ```
 mkdir build
@@ -13,7 +14,9 @@ cmake ..
 make
 ```
 
-# Executables
+## Executables
 The following applications are generated.
 
-./
+./basicMarkerDetection
+./markerCreation
+./poseEstimation
