@@ -1,9 +1,11 @@
 # ArUco Markers Detection
 
+## Apparatus
+webcam (monocular)
+
 ## OpenCV Version
 OpenCV 4.3.0  
 OpenCV Contrib 4.3.0
-
 
 ## Steps to build
 To compile on Linux, mac or Windows using Mingw
@@ -20,7 +22,6 @@ The following applications are generated.
 ./basicMarkerDetection  
 ./markerCreation  
 ./poseEstimation  
-
 
 ## Marker Examples
 ### Example 1
