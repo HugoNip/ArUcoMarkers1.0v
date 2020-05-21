@@ -32,3 +32,7 @@ The following applications are generated.
 
 ### Example 3
 ![marker003.png](https://github.com/HugoNip/ArUcoMarkersDetection_OpenCV/blob/master/Markers/marker003.png)
+
+## Reference 
+[OpenCv Torurial 1](https://docs.opencv.org/trunk/d5/dae/tutorial_aruco_detection.html)  
+[OpenCv Torurial 2](https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-c-python/)
